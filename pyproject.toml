@@ -7,13 +7,13 @@ name = "my_package"
 authors = [
     {name = "Timothy Cameron", email = "timiancam@outlook.com"},
 ]
+version = "0.1"
 description = "My package description"
 readme = "README.md"
-requires-python = ">=3.7"
+requires-python = ">=3.11"
 keywords = ["one", "two"]
 license = {text = "BSD-3-Clause"}
 classifiers = [
-    "Framework :: Django",
     "Programming Language :: Python :: 3",
 ]
 dependencies = [
