@@ -12,15 +12,15 @@ description = "My package description"
 readme = "README.md"
 requires-python = ">=3.11"
 keywords = ["one", "two"]
-license = {text = "BSD-3-Clause"}
+license = {text = "MIT License"}
 classifiers = [
     "Programming Language :: Python :: 3",
-]
-dependencies = [
-    "requests",
-    'importlib-metadata; python_version<"3.8"',
+    "License :: OSI Approved LL MIT License",
 ]
 dynamic = ["version"]
+
+[project.urls]
+"Homepage" = "https:://github.com/timiancam/python_package_template"
 
 # ... other project metadata fields as specified in:
 #     https://packaging.python.org/en/latest/specifications/declaring-project-metadata/
