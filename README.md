@@ -10,8 +10,8 @@
 
 ## To do:
 
-* Add error handling.
-* Add doc-strings.
-* Add general comments.
-* Check LICENSE.
-* Final check.
+* Add doc-strings
+* Add comments
+* Check LICENSE
+* Final check
+* Repository metadata

@@ -1,26 +1,22 @@
 [build-system]
-requires = ["setuptools", "setuptools-scm"]
-build-backend = "setuptools.build_meta"
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
 
-[project]
+[tool.poetry]
 name = "my_package"
-authors = [
-    {name = "Timothy Cameron", email = "timiancam@outlook.com"},
-]
+authors = [Timothy Cameron <timiancam@gmail.com>]
 version = "0.1"
 description = "My package description"
 readme = "README.md"
-requires-python = ">=3.11"
 keywords = ["one", "two"]
-license = {text = "MIT License"}
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
+license = "MIT"
+repository = "https:://github.com/timiancam/python_package_template"
+packages = [
+    { include = "my_package" },
 ]
-dynamic = ["version"]
 
-[project.urls]
-"repository" = "https:://github.com/timiancam/python_package_template"
+[tool.poetry.dependencies]
+python = "^3.11"
 
 # ... other project metadata fields as specified in:
-#     https://packaging.python.org/en/latest/specifications/declaring-project-metadata/
+#       https://python-poetry.org/docs/pyproject/
