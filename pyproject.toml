@@ -15,7 +15,7 @@ keywords = ["one", "two"]
 license = {text = "MIT License"}
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved LL MIT License",
+    "License :: OSI Approved :: MIT License",
 ]
 dynamic = ["version"]
 
