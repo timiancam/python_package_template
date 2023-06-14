@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "my_package"
-authors = [Timothy Cameron <timiancam@gmail.com>]
+authors = ["Timothy Cameron <timiancam@gmail.com>"]
 version = "0.1"
 description = "My package description"
 readme = "README.md"
