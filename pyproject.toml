@@ -16,7 +16,7 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = ">=3.11"
+python = "^3.11"
 
 # ... other project metadata fields as specified in:
 #       https://python-poetry.org/docs/pyproject/
