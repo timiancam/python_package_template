@@ -3,7 +3,7 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "my_package_name"
+name = "python_package_template"
 authors = ["Timothy Cameron <timiancam@gmail.com>"]
 version = "0.1"
 description = "My package description"
