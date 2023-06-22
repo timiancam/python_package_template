@@ -1,8 +1,6 @@
-*venv
 *.ipynb_checkpoints
 *.DS_store
 *.pyc
 *.code-workspace
 *__pycache__
 *.cache
-*poetry.lock
