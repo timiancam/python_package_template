@@ -10,8 +10,8 @@
 
 ## To do:
 
-* Add doc-strings
-* Add comments
+* Add doc-strings / comments
+* Finalize repository metadeta and settings
 * Check LICENSE
 * Final check
 * Repository metadata
