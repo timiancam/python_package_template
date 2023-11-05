@@ -15,3 +15,4 @@
 * Check LICENSE
 * Final check
 * Repository metadata
+* Update .toml
