@@ -20,3 +20,4 @@ https://python-poetry.org/docs/#installation
 * Final check
 * Repository metadata
 * Update .toml
+* Use professional language and remove personal pronouns
