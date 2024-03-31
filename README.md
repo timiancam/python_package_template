@@ -14,10 +14,10 @@ https://python-poetry.org/docs/#installation
 
 ## To do:
 
-* Add doc-strings / comments
-* Finalize repository metadeta and settings
-* Check LICENSE
-* Final check
-* Repository metadata
-* Update .toml
-* Use professional language and remove personal pronouns
+* Add doc-strings / comments.
+* Finalize repository metadeta and settings.
+* Check LICENSE.
+* Final check.
+* Repository metadata.
+* Update .toml.
+* Use professional language and remove personal pronouns.
